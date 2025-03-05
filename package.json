@@ -7,7 +7,7 @@
     "author": "Hung Vu <vuhung246@gmail.com>",
     "license": "MIT",
     "scripts": {
-      "updater": "node index.js"      
+      "start": "node index.js"      
     },
     "dependencies": {      
       "@ethersproject/providers": "5.7.2",      
